@@ -1,0 +1,853 @@
+{
+    "total": 292,
+    "skip": 0,
+    "packs": [
+        {
+            "id": "9fde9184-45f8-4140-882e-e7d796081a2c",
+            "itunesId": "content_tropical_pop",
+            "dateAdded": "2022-01-19T11:53:29.422Z",
+            "name": "Tropical Pop",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "dance",
+                "dancehall",
+                "pop",
+                "reggaeton"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_tropical_pop-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_tropical_pop/preview/mp3"
+        },
+        {
+            "id": "f3cdaae8-11dc-48ef-a407-4bc4d7ed07c8",
+            "itunesId": "content_ethereal_techno",
+            "dateAdded": "2022-01-13T12:02:49.438Z",
+            "name": "Ethereal Techno",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "electronica",
+                "techno"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_ethereal_techno-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_ethereal_techno/preview/mp3"
+        },
+        {
+            "id": "01709fe6-4b1f-4f1c-a274-b63857da1c9b",
+            "itunesId": "content_technicolor",
+            "dateAdded": "2022-01-06T13:48:28.861Z",
+            "name": "Technicolor",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "dance",
+                "electronica",
+                "house"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_technicolor-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_technicolor/preview/mp3"
+        },
+        {
+            "id": "f1958319-aba1-46e4-9981-082731208ecf",
+            "itunesId": "content_neuro_dnb",
+            "dateAdded": "2021-12-22T13:54:31.720Z",
+            "name": "Neuro DnB",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "drum-and-bass",
+                "dubstep",
+                "glitch"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_neuro_dnb-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_neuro_dnb/preview/mp3"
+        },
+        {
+            "id": "fb02a9c8-d0da-4877-9ccf-985b65e97546",
+            "itunesId": "content_spectral_reggaeton",
+            "dateAdded": "2021-12-14T20:10:41.017Z",
+            "name": "Spectral Reggaeton",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "latin",
+                "reggaeton",
+                "world"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_spectral_reggaeton-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_spectral_reggaeton/preview/mp3"
+        },
+        {
+            "id": "2b02a781-0635-4421-ab6b-e9561b55c6cc",
+            "itunesId": "content_gingerbread_house",
+            "dateAdded": "2021-12-15T19:04:51.212Z",
+            "name": "Gingerbread House",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "edm",
+                "electro",
+                "electronica",
+                "house",
+                "synthpop"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_gingerbread_house-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_gingerbread_house/preview/mp3"
+        },
+        {
+            "id": "74978068-89da-4f80-97e6-5b7d488ca57a",
+            "itunesId": "content_easy_hip_hop",
+            "dateAdded": "2021-11-29T08:51:34.372Z",
+            "name": "Easy Hip Hop",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "hip-hop",
+                "jazz"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_easy_hip_hop-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_easy_hip_hop/preview/mp3"
+        },
+        {
+            "id": "15017928-146a-4b9d-b633-9eb027647b70",
+            "itunesId": "content_solar_flare",
+            "dateAdded": "2021-12-02T12:31:54.977Z",
+            "name": "Solar Flare",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "alternative",
+                "electronica",
+                "techno"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_solar_flare-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_solar_flare/preview/mp3"
+        },
+        {
+            "id": "c352c567-cbcc-4429-ab2e-53b27aa7c369",
+            "itunesId": "content_stoner_rock",
+            "dateAdded": "2021-11-19T14:21:33.033Z",
+            "name": "Stoner Rock",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "indie",
+                "rock"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_stoner_rock-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_stoner_rock/preview/mp3"
+        },
+        {
+            "id": "26828bbc-f284-43e6-87a7-c3d2685fe3a7",
+            "itunesId": "content_indie_pop",
+            "dateAdded": "2021-11-17T09:22:28.230Z",
+            "name": "Indie Pop",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "chill",
+                "indie",
+                "pop"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_indie_pop-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_indie_pop/preview/mp3"
+        },
+        {
+            "id": "bab723ab-ce52-4d43-833c-d4c16a6a8bf1",
+            "itunesId": "content_nano_tech",
+            "dateAdded": "2021-11-11T12:57:24.431Z",
+            "name": "Nano Tech",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "chill",
+                "electronica",
+                "future-bass",
+                "trap"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_nano_tech-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_nano_tech/preview/mp3"
+        },
+        {
+            "id": "6a9dcf0f-e3d7-4f4c-8d22-6819458dad9c",
+            "itunesId": "content_modern_funk",
+            "dateAdded": "2021-10-29T13:13:33.351Z",
+            "name": "Modern Funk",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "electro",
+                "funk",
+                "house"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_modern_funk-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_modern_funk/preview/mp3"
+        },
+        {
+            "id": "5bf66957-7385-4fad-8883-22b2aaa0a206",
+            "itunesId": "content_analogue_deep_house_2",
+            "dateAdded": "2021-10-21T14:02:39.053Z",
+            "name": "Analogue Deep House 2",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "deep-house",
+                "house",
+                "techno"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_analogue_deep_house_2-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_analogue_deep_house_2/preview/mp3"
+        },
+        {
+            "id": "eeef56e1-1c22-4334-8805-a5f5d2b317c2",
+            "itunesId": "content_mesmeric_psytrance",
+            "dateAdded": "2021-10-14T11:46:13.688Z",
+            "name": "Mesmeric Psytrance",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "psytrance",
+                "trance"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_mesmeric_psytrance-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_mesmeric_psytrance/preview/mp3"
+        },
+        {
+            "id": "497427c6-ea12-4c2b-9a1a-258c3b1c3cc3",
+            "itunesId": "content_darkest_hour",
+            "dateAdded": "2021-10-08T14:06:37.283Z",
+            "name": "Darkest Hour",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "metal",
+                "rock"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_darkest_hour-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_darkest_hour/preview/mp3"
+        },
+        {
+            "id": "32b2c222-5619-456a-881b-104db2a5d2f9",
+            "itunesId": "content_soaring_synthesis",
+            "dateAdded": "2021-10-01T08:23:07.265Z",
+            "name": "Soaring Synthesis",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "chill",
+                "future-bass",
+                "pop"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_soaring_synthesis-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_soaring_synthesis/preview/mp3"
+        },
+        {
+            "id": "ab320a84-c870-4377-bfd7-3076d9363651",
+            "itunesId": "content_soulful_rnb",
+            "dateAdded": "2021-09-23T13:42:30.781Z",
+            "name": "Soulful RnB",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "rnb",
+                "soul"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_soulful_rnb-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_soulful_rnb/preview/mp3"
+        },
+        {
+            "id": "85c2f8b7-2935-4faf-865d-707b28dddc53",
+            "itunesId": "content_reggae_rhythms",
+            "dateAdded": "2021-09-17T11:32:59.109Z",
+            "name": "Reggae Rhythms",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "downtempo",
+                "reggae"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_reggae_rhythms-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_reggae_rhythms/preview/mp3"
+        },
+        {
+            "id": "850250be-c0cb-48e9-bd8b-338db42033d4",
+            "itunesId": "content_aqueous_house",
+            "dateAdded": "2021-09-03T12:10:20.981Z",
+            "name": "Aqueous House",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "deep-house",
+                "house"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_aqueous_house-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_aqueous_house/preview/mp3"
+        },
+        {
+            "id": "a2982eb6-ee16-4f5f-a3e9-7975c165a049",
+            "itunesId": "content_psychedelic_reggaeton",
+            "dateAdded": "2021-09-10T12:42:11.877Z",
+            "name": "Psychedelic Reggaeton",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "dance",
+                "dancehall",
+                "electronica",
+                "reggaeton"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_psychedelic_reggaeton-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_psychedelic_reggaeton/preview/mp3"
+        },
+        {
+            "id": "d9599049-fee3-4bd6-b450-072dbccdd4a1",
+            "itunesId": "content_tropical_beach_house",
+            "dateAdded": "2021-08-25T13:33:13.591Z",
+            "name": "Tropical Beach House",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "dance",
+                "deep-house",
+                "edm",
+                "electronica",
+                "house"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_tropical_beach_house-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_tropical_beach_house/preview/mp3"
+        },
+        {
+            "id": "d42dedc5-ea90-49fe-9690-10cb9c752f57",
+            "itunesId": "content_chroma_crush",
+            "dateAdded": "2021-07-16T10:02:33.414Z",
+            "name": "Chroma Crush",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "edm",
+                "electronica",
+                "glitch"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_chroma_crush-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_chroma_crush/preview/mp3"
+        },
+        {
+            "id": "2fc81f5e-94f1-4535-a77a-b0e0c7564b6f",
+            "itunesId": "content_synthetic_songwriter",
+            "dateAdded": "2021-08-19T14:04:26.173Z",
+            "name": "Synthetic Songwriter",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "chill",
+                "downtempo",
+                "electronica",
+                "pop"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_synthetic_songwriter-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_synthetic_songwriter/preview/mp3"
+        },
+        {
+            "id": "2d711340-76f6-4c05-9761-f598cabb719e",
+            "itunesId": "content_sub_bass_trap",
+            "dateAdded": "2019-01-16T15:32:10.436Z",
+            "name": "Sub Bass Trap",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "trap"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_sub_bass_trap-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_sub_bass_trap/preview/mp3"
+        },
+        {
+            "id": "1b2ecea1-e6f2-4984-b32c-a3a992202841",
+            "itunesId": "content_future_bass_flight",
+            "dateAdded": "2021-08-19T09:11:34.863Z",
+            "name": "Future Bass Flight",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "future-bass"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_future_bass_flight-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_future_bass_flight/preview/mp3"
+        },
+        {
+            "id": "69b44c1c-9485-4b15-b6e6-867cc624ce97",
+            "itunesId": "content_synthwave_orbit",
+            "dateAdded": "2021-08-11T13:35:47.544Z",
+            "name": "Synthwave Orbit",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "80s",
+                "electronica",
+                "retro",
+                "synthwave"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_synthwave_orbit-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_synthwave_orbit/preview/mp3"
+        },
+        {
+            "id": "ebdf061f-9cc6-4eb5-9378-c87ba26aad5c",
+            "itunesId": "content_modular_ebm",
+            "dateAdded": "2021-08-04T09:44:07.454Z",
+            "name": "Modular Ebm",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "experimental"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_modular_ebm-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_modular_ebm/preview/mp3"
+        },
+        {
+            "id": "97e6af6d-e8d8-4c70-82c3-94aec7a4e881",
+            "itunesId": "content_balkan_bliss",
+            "dateAdded": "2021-07-15T12:33:58.980Z",
+            "name": "Balkan Bliss",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "traditional",
+                "world"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_balkan_bliss-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_balkan_bliss/preview/mp3"
+        },
+        {
+            "id": "de3179c3-1150-4ce2-9281-4313d4ffdc37",
+            "itunesId": "content_warped_acoustics",
+            "dateAdded": "2021-07-07T11:41:14.458Z",
+            "name": "Warped Acoustics",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "experimental",
+                "garage"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_warped_acoustics-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_warped_acoustics/preview/mp3"
+        },
+        {
+            "id": "d5cd6cce-b361-404a-9ca4-89fcd5c47c91",
+            "itunesId": "content_liquid_dnb",
+            "dateAdded": "2021-06-16T09:55:53.548Z",
+            "name": "Liquid DnB",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "bass",
+                "drum-and-bass",
+                "dubstep",
+                "electronica"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_liquid_dnb-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_liquid_dnb/preview/mp3"
+        },
+        {
+            "id": "4b27af4b-ccf5-4da9-896b-58cc9f89be9a",
+            "itunesId": "content_hard_hit_grime",
+            "dateAdded": "2021-06-29T10:44:31.373Z",
+            "name": "Hard Hit Grime",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "grime"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_hard_hit_grime-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_hard_hit_grime/preview/mp3"
+        },
+        {
+            "id": "f97a946c-a25e-4b50-9b5e-6d78e4977bb4",
+            "itunesId": "content_planetary_techno",
+            "dateAdded": "2021-06-14T18:51:14.794Z",
+            "name": "Planetary Techno",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acid",
+                "house",
+                "techno"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_planetary_techno-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_planetary_techno/preview/mp3"
+        },
+        {
+            "id": "aaf2f5f7-da8d-44b1-a349-1b5c2e2a46fa",
+            "itunesId": "content_oldschool_house",
+            "dateAdded": "2021-06-15T12:24:09.289Z",
+            "name": "Oldschool House",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "80s",
+                "90s",
+                "electro-house",
+                "electronica",
+                "house",
+                "retro"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_oldschool_house-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_oldschool_house/preview/mp3"
+        },
+        {
+            "id": "776b9da3-ed83-48fc-bf87-ec6b7ce607b9",
+            "itunesId": "content_electronic_folk",
+            "dateAdded": "2021-05-27T13:35:42.011Z",
+            "name": "Electronic Folk",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "indie"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_electronic_folk-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_electronic_folk/preview/mp3"
+        },
+        {
+            "id": "71b963fd-d295-42ae-9df9-e03a1c437177",
+            "itunesId": "content_modern_chiptune",
+            "dateAdded": "2021-06-03T13:46:57.010Z",
+            "name": "Modern Chiptune",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "8bit"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_modern_chiptune-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_modern_chiptune/preview/mp3"
+        },
+        {
+            "id": "99d94d8f-6321-4624-8b34-6ee8bf85da72",
+            "itunesId": "content_dynamic_soul",
+            "dateAdded": "2021-05-19T10:22:55.987Z",
+            "name": "Dynamic Soul",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "alternative",
+                "jazz",
+                "pop",
+                "soul"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_dynamic_soul-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_dynamic_soul/preview/mp3"
+        },
+        {
+            "id": "dbfff318-5a8a-4f0c-87eb-b881d6415946",
+            "itunesId": "content_nu_metal",
+            "dateAdded": "2021-05-18T12:03:34.152Z",
+            "name": "Nu Metal",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "alternative",
+                "metal",
+                "rock"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_nu_metal-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_nu_metal/preview/mp3"
+        },
+        {
+            "id": "f37163f3-bee8-424b-b53d-69acc150c889",
+            "itunesId": "content_80s_hip_hop",
+            "dateAdded": "2021-05-13T17:27:05.069Z",
+            "name": "80s Hip Hop",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "80s",
+                "hip-hop",
+                "retro"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_80s_hip_hop-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_80s_hip_hop/preview/mp3"
+        },
+        {
+            "id": "270db700-565a-41a7-b37f-f9decc86f797",
+            "itunesId": "content_liquid_house",
+            "dateAdded": "2021-05-13T08:38:44.296Z",
+            "name": "Liquid House",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "chill",
+                "deep-house",
+                "downtempo",
+                "house",
+                "tech-house"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_liquid_house-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_liquid_house/preview/mp3"
+        },
+        {
+            "id": "db72846c-8a47-45f7-b76c-40a69e33b9f4",
+            "itunesId": "content_trap_de_france",
+            "dateAdded": "2021-04-28T14:04:20.706Z",
+            "name": "Trap de France",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "electronica",
+                "hip-hop",
+                "trap"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_trap_de_france-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_trap_de_france/preview/mp3"
+        },
+        {
+            "id": "7c596e62-6942-4301-ab7e-e580fee4b59f",
+            "itunesId": "content_analogue_deep_house",
+            "dateAdded": "2021-04-21T10:14:09.208Z",
+            "name": "Analogue Deep House",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "deep-house",
+                "edm",
+                "house",
+                "tech-house",
+                "techno"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_analogue_deep_house-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_analogue_deep_house/preview/mp3"
+        },
+        {
+            "id": "0568ca53-cbbb-400c-aad0-7137c822a75f",
+            "itunesId": "content_rnb_fuse",
+            "dateAdded": "2021-04-15T11:11:32.424Z",
+            "name": "RnB Fuse",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "alternative",
+                "pop",
+                "rnb"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_rnb_fuse-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_rnb_fuse/preview/mp3"
+        },
+        {
+            "id": "f7bead2d-8bea-4358-a530-50300273fafe",
+            "itunesId": "content_daybreak_trap",
+            "dateAdded": "2021-03-26T08:18:17.692Z",
+            "name": "Daybreak Trap",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "trap"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_daybreak_trap-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_daybreak_trap/preview/mp3"
+        },
+        {
+            "id": "10ac0312-e1e5-43d5-86e1-cb7bed27fb16",
+            "itunesId": "content_california_flow",
+            "dateAdded": "2021-03-22T14:05:07.187Z",
+            "name": "California Flow",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "reggaeton"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_california_flow-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_california_flow/preview/mp3"
+        },
+        {
+            "id": "db7486b9-16b4-40a6-8331-fd38b07f8bab",
+            "itunesId": "content_dystopian_soundtrack",
+            "dateAdded": "2021-03-19T10:13:44.256Z",
+            "name": "Dystopian Soundtrack",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "trap"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_dystopian_soundtrack-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_dystopian_soundtrack/preview/mp3"
+        },
+        {
+            "id": "863d413f-81d9-4509-8dc5-263ed6222f43",
+            "itunesId": "content_mirage",
+            "dateAdded": "2021-03-17T14:44:56.493Z",
+            "name": "Mirage",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "acoustic",
+                "cinematic",
+                "world"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_mirage-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_mirage/preview/mp3"
+        },
+        {
+            "id": "150d6283-327b-4f80-a948-972acd28865a",
+            "itunesId": "content_dancehall_alliance",
+            "dateAdded": "2021-03-12T10:37:24.884Z",
+            "name": "Dancehall Alliance",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "dance",
+                "dancehall",
+                "reggaeton"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_dancehall_alliance-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_dancehall_alliance/preview/mp3"
+        },
+        {
+            "id": "424262e4-fded-4115-80cb-e10c5e45b73e",
+            "itunesId": "content_avant_pop",
+            "dateAdded": "2021-02-24T21:34:08.887Z",
+            "name": "Avant-Pop",
+            "plans": [],
+            "genres": [
+                "pop"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_avant_pop-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_avant_pop/preview/mp3"
+        },
+        {
+            "id": "626e42f7-ccb6-43dd-b037-73bb8c548520",
+            "itunesId": "content_essential_psytrance",
+            "dateAdded": "2021-02-23T09:29:01.616Z",
+            "name": "Essential Psytrance",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "dance",
+                "edm",
+                "electronica",
+                "house",
+                "psytrance",
+                "techno",
+                "trance"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_essential_psytrance-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_essential_psytrance/preview/mp3"
+        },
+        {
+            "id": "2fc54c2e-3e35-4678-8fd6-94a0038dc210",
+            "itunesId": "content_mumbai_fusion",
+            "dateAdded": "2021-02-22T20:21:20.853Z",
+            "name": "Mumbai Fusion",
+            "plans": [
+                "6457ed73-e1ba-420f-a6bf-0cf0c263863c"
+            ],
+            "genres": [
+                "world"
+            ],
+            "published": true,
+            "imageUrl": "https://images.ampifymusic.com/content_mumbai_fusion-2x.jpg",
+            "previewUrl": "https://downloads.ampifymusic.com/packs/content_mumbai_fusion/preview/mp3"
+        }
+    ]
+}
