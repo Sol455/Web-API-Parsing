@@ -7,6 +7,7 @@ HIP_HOP = "hip-hop"
 
 def get_json():
     r = requests.get('https://api.ampifymusic.com/packs')
+    # Get and return JSON from Ampify
     return r.json()
 
 
@@ -17,6 +18,7 @@ def get_sorted_genres(data):
         for genre in pack["genres"]:
             genre_names.add(genre)
     sorted_genre_names = sorted(genre_names)
+    # Return alphabetically sorted genre names
     return sorted_genre_names
 
 
@@ -26,7 +28,8 @@ def get_hiphop_packs(data):
     for pack in data["packs"]:
         if HIP_HOP in pack["genres"]:
             hiphop_packs.append(pack)
-
+            
+    # Return all packs containing the genre, hip-hop
     return hiphop_packs
 
 
