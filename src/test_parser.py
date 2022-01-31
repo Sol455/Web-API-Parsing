@@ -12,6 +12,7 @@ class ParseTests(unittest.TestCase):
 
     def test_fetch_data(self):
         fetched_data = get_json()
+        # test to see if some data is fetched & returned
         self.assertIsNotNone(fetched_data)
 
     def test_get_sorted_genres(self):
@@ -21,6 +22,8 @@ class ParseTests(unittest.TestCase):
             data = json.loads(f.read())
 
         genre_names = get_sorted_genres(data)
+        
+        # Check that 47 different genres are returned from the locally saved JSON
         self.assertTrue(len(genre_names) == 47)
 
         for i in range(len(genre_names) - 2):
@@ -33,9 +36,11 @@ class ParseTests(unittest.TestCase):
             data = json.loads(f.read())
 
         hiphop_packs = get_hiphop_packs(data)
+        # Test that 3 different packs are returned
         self.assertTrue(len(hiphop_packs) == 3)
 
         for pack in hiphop_packs:
+            # Test to see if these packs are contain the genre 'hip-hop'
             self.assertTrue(HIP_HOP in pack["genres"])
 
 
